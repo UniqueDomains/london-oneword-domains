@@ -385,6 +385,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 22da9c56-bdab-4c29-8fb9-9b01d33ad253,statehood.london,available,41.98,,70,2,9,namecheap,,
 23005941-b2cb-4479-9511-ea99b6c9fe51,grams.london,available,41.98,,70,12,5,namecheap,,
 231784fa-b4d6-4c5d-8b15-cd3d2d6a66ac,changethechannel.london,available,41.98,,62,1,18,namecheap,,
+2343d68d-d280-4b3a-89c1-be91baac977d,pre.london,premium,,,64,31,3,,,
 234d5fcf-9c5f-405a-b42b-b732a9882504,affects.london,available,31.99,31.99,54,4,7,namesilo,,
 234ec80c-6106-428c-8355-a57b49018933,proxymurder.london,available,41.98,,36,1,12,namecheap,,
 234f6b5b-ec50-49c8-acfa-d7be82ab9a81,geese.london,available,41.98,,53,10,5,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b8e47c9-b06a-4947-b2b8-0840548bf19f,desktoptoy.london,available,41.98,,50,1,11,namecheap,,
 5ba4ffca-118c-4764-b2db-3dd1b5cd06ae,summarizing.london,available,41.98,,46,2,11,namecheap,,
 5ba5add5-13eb-4ae7-acf2-e590ac5598d0,ElNino.london,premium,64.43,31.94,66,8,7,namesilo,,
-5bb2a326-7e4e-4673-92cb-60afa33a794d,highsociety.london,available,41.98,,73,8,12,namecheap,,
