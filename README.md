@@ -82,7 +82,7 @@ print(df.head())
 | commonground.london | available | $41.98    | —             | 74             | 28     | 13     | namecheap                                |
 | bees.london         | premium   | $135.34   | —             | 54             | 27     | 4      | name.com                                 |
 | Trex.london         | available | $41.98    | —             | 80             | 24     | 5      | namecheap                                |
-| traders.london      | premium   | $135.01   | —             | 60             | 26     | 7      | name.com                                 |
+| Keith.london        | premium   | $151.12   | $37.79        | 66             | 25     | 5      | namecheap                                |
 | deeplearning.london | available | $41.98    | —             | 74             | 23     | 13     | namecheap                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
