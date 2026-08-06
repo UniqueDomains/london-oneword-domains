@@ -1,10 +1,10 @@
-# Available .LONDON One-Word Domains (11,697)
+# Available .LONDON One-Word Domains (11,701)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C697%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C701%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .london one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,697 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,701 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,697 domains · **Median ask:** $157.27 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,701 domains · **Median ask:** $141.30 · **High-demand under $2,500:** 34
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/london`
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | atop.london     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
 | art.london      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.      |
 | ace.london      | premium   | $669.69   | $59.99        | high           | medium | 3      | name.com             |
-| halt.london     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
+| eyry.london     | available | $12.98    | $41.98        | low            | low    | 4      | namecheap            |
 | food.london     | resell    | —         | —             | high           | medium | 4      | Porkbun, LLC         |
 | bad.london      | premium   | $332.64   | —             | high           | medium | 3      | name.com             |
-| nyse.london     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
+| halt.london     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
 | dress.london    | resell    | —         | —             | high           | low    | 5      | Porkbun, LLC         |
 | bob.london      | premium   | $676.89   | —             | high           | medium | 3      | name.com             |
-| trap.london     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
+| liii.london     | available | $12.98    | $41.98        | low            | low    | 4      | namecheap            |
 | defend.london   | resell    | —         | —             | high           | low    | 6      | Go Daddy, LLC        |
 | btw.london      | premium   | $681.70   | —             | high           | low    | 3      | name.com             |
-| xiii.london     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
+| nyse.london     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
 | explore.london  | resell    | —         | —             | high           | medium | 7      | Namecheap            |
 | cap.london      | premium   | $676.56   | —             | high           | low    | 3      | name.com             |
-| aftuh.london    | available | $31.99    | $31.99        | medium         | low    | 5      | namesilo             |
+| trap.london     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
 | grocery.london  | resell    | —         | —             | high           | low    | 7      | BB Online UK Limited |
 | dad.london      | premium   | $337.24   | —             | high           | low    | 3      | name.com             |
-| among.london    | available | $31.99    | $31.99        | medium         | low    | 5      | namesilo             |
+| xcii.london     | available | $12.98    | $41.98        | low            | low    | 4      | namecheap            |
 | bathroom.london | resell    | —         | —             | high           | low    | 8      | Porkbun, LLC         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,697 live domains                        |
+| 1,000-row public sample | 11,701 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 34 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LONDON One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LONDON One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
