@@ -1,10 +1,10 @@
-# Available .LONDON One-Word Domains (31,840)
+# Available .LONDON One-Word Domains (22,090)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C840%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C090%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .london one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,840 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,090 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,840 domains · **Median ask:** $70.46 · **High-demand under $2,500:** 36
+**Public extract:** 1,000 rows · **Live catalog:** 22,090 domains · **Median ask:** $101.54 · **High-demand under $2,500:** 81
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/london`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| arty.london     | available | $12.98    | $41.98        | high           | low    | 4      | namecheap                                |
-| table.london    | resell    | —         | —             | high           | low    | 5      | Porkbun, LLC                             |
-| and.london      | premium   | $681.70   | —             | high           | medium | 3      | name.com                                 |
-| atop.london     | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                 |
-| dentist.london  | resell    | —         | —             | high           | low    | 7      | Hosting Concepts B.V. d/b/a Registrar.eu |
-| ava.london      | premium   | $680.21   | —             | high           | medium | 3      | name.com                                 |
-| auld.london     | available | $12.98    | $41.98        | medium         | low    | 4      | namecheap                                |
-| explore.london  | resell    | —         | —             | high           | medium | 7      | Namecheap                                |
-| axe.london      | premium   | $679.48   | —             | high           | low    | 3      | name.com                                 |
-| djia.london     | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                 |
-| grocery.london  | resell    | —         | —             | high           | low    | 7      | BB Online UK Limited                     |
-| boy.london      | premium   | $679.48   | —             | high           | low    | 3      | name.com                                 |
-| eyry.london     | available | $12.98    | $41.98        | high           | low    | 4      | namecheap                                |
-| bathroom.london | resell    | —         | —             | high           | low    | 8      | Porkbun, LLC                             |
-| btw.london      | premium   | $681.70   | —             | high           | low    | 3      | name.com                                 |
-| liii.london     | available | $12.98    | $41.98        | medium         | low    | 4      | namecheap                                |
-| cap.london      | premium   | $676.56   | —             | high           | low    | 3      | name.com                                 |
-| nyse.london     | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                 |
-| clv.london      | premium   | $133.50   | $59.99        | high           | low    | 3      | name.com                                 |
-| prat.london     | available | $12.98    | $41.98        | medium         | low    | 4      | namecheap                                |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
+| arng.london    | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo                                 |
+| leasing.london | resell    | $41.98    | —             | high           | low    | 7      | GoDaddy.com, LLC                         |
+| ago.london     | premium   | $63.74    | $31.60        | high           | low    | 3      | namesilo                                 |
+| asat.london    | available | $12.98    | $41.98        | medium         | low    | 4      | namecheap                                |
+| flat.london    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                              |
+| amp.london     | premium   | $685.15   | $31.58        | high           | high   | 3      | namesilo                                 |
+| boxy.london    | available | $12.98    | $41.98        | medium         | low    | 4      | namecheap                                |
+| agent.london   | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc.                          |
+| ano.london     | premium   | $69.97    | $34.98        | high           | low    | 3      | namecheap                                |
+| case.london    | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                 |
+| hotel.london   | resell    | —         | —             | high           | medium | 5      | Hosting Concepts B.V. d/b/a Registrar.eu |
+| ans.london     | premium   | $137.16   | $31.61        | medium         | low    | 3      | namesilo                                 |
+| chem.london    | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                 |
+| kuwaiti.london | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                         |
+| anu.london     | premium   | $63.76    | $31.61        | high           | low    | 3      | namesilo                                 |
+| dues.london    | available | $12.98    | $41.98        | high           | low    | 4      | namecheap                                |
+| aol.london     | premium   | $340.85   | —             | high           | high   | 3      | name.com                                 |
+| halt.london    | available | $12.98    | $41.98        | high           | low    | 4      | namecheap                                |
+| axe.london     | premium   | $679.48   | —             | high           | low    | 3      | name.com                                 |
+| hiss.london    | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,840 live domains                        |
+| 1,000-row public sample | 22,090 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 36 high-demand names under $2,500          |
+| Basic exported fields   | 81 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LONDON One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LONDON One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
