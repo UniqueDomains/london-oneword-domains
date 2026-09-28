@@ -1,18 +1,18 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 e8e21ce8-0f9e-4acd-8cbe-f5b9f6c5f38c,oblige.london,available,12.98,41.98,high,low,6,namecheap,,,03/09/2026 23:41
-f6ab36f9-d72a-4b92-a6d1-b0e14637633d,hostile.london,premium,63.01,31.25,high,low,7,namesilo,,,25/09/2026 00:05
+f6ab36f9-d72a-4b92-a6d1-b0e14637633d,hostile.london,premium,63.01,31.25,medium,low,7,namesilo,,,25/09/2026 00:05
 61705e6b-63a5-4c8d-8617-9785d706f481,ranked.london,available,12.98,41.98,high,low,6,namecheap,,,20/08/2026 17:38
 59af96cc-02fb-420e-942f-6ebbed15d811,unentitled.london,available,12.98,41.98,low,low,10,namecheap,,,12/09/2026 09:07
 ee07879d-459a-4c1c-9185-49c4d89e6cfa,bellyful.london,available,31.99,31.99,high,low,8,namesilo,,,23/09/2026 06:51
 c6d98683-12ec-4bce-b954-d6ecbb795438,drying.london,available,31.99,31.99,high,low,6,namesilo,,,16/09/2026 09:24
 275bad35-f663-4a17-8d66-7222d09845c3,possess.london,premium,135.69,31.27,high,low,7,namesilo,,,26/09/2026 03:38
-1bb848d8-7dd6-44f4-a007-0bd9117f2980,echoes.london,premium,69.39,34.7,high,low,6,namecheap,,,19/09/2026 20:18
+1bb848d8-7dd6-44f4-a007-0bd9117f2980,echoes.london,premium,69.39,34.7,medium,low,6,namecheap,,,19/09/2026 20:18
 6ae403c0-3c98-41b9-8b8c-63ee4dac6b28,aphasia.london,available,31.99,31.99,medium,low,7,namesilo,,,19/09/2026 16:53
 a638de4b-6251-49f1-ac8b-8170e39d3dbd,duplex.london,premium,134.9,59.99,high,low,6,name.com,,,14/08/2026 21:23
 02cddf95-5b74-49a8-9616-c85535cae20f,senescent.london,available,12.98,41.98,medium,low,9,namecheap,,,
-7c109aa8-bd70-4e56-bb8b-e5b13445a552,alcoholism.london,available,31.99,31.99,high,low,10,namesilo,,,18/09/2026 04:06
+7c109aa8-bd70-4e56-bb8b-e5b13445a552,alcoholism.london,available,31.99,31.99,medium,low,10,namesilo,,,18/09/2026 04:06
 454476e6-5754-4fa7-97fe-1fefbb5474f0,arrayed.london,available,12.98,41.98,medium,low,7,namecheap,,,06/08/2026 21:37
-5b641cc2-9754-4e41-8921-2208db482fd1,multiplied.london,available,12.98,41.98,high,low,10,namecheap,,,03/09/2026 10:54
+5b641cc2-9754-4e41-8921-2208db482fd1,multiplied.london,available,12.98,41.98,medium,low,10,namecheap,,,03/09/2026 10:54
 f181824e-0408-4b27-ac39-687b21233c5d,grownup.london,available,12.98,41.98,high,low,7,namecheap,,,
 5741b05f-ddf6-47a1-8994-d027a73f234e,decorous.london,available,12.98,41.98,medium,low,8,namecheap,,,09/08/2026 06:21
 2ad15a85-a0bb-45c1-a754-46b0759c3a22,snarly.london,available,12.98,41.98,high,medium,6,namecheap,,,10/09/2026 12:20
@@ -20,7 +20,7 @@ f181824e-0408-4b27-ac39-687b21233c5d,grownup.london,available,12.98,41.98,high,l
 e64eef91-79fa-4f38-a8f3-2d06319a797c,starch.london,available,31.99,31.99,high,low,6,namesilo,,,19/09/2026 00:32
 0c406b88-da91-4da9-8dd6-9d5d633a1849,unneeded.london,available,12.98,41.98,medium,low,8,namecheap,,,12/09/2026 15:52
 697759b1-f70d-47d1-8bd5-217483d5dfd0,uncut.london,premium,138.53,31.93,high,low,5,namesilo,,,12/09/2026 06:52
-e1a08892-4395-4644-9d9f-3fb8add65d5c,glissando.london,available,12.98,41.98,high,low,9,namecheap,,,14/09/2026 21:37
+e1a08892-4395-4644-9d9f-3fb8add65d5c,glissando.london,available,12.98,41.98,medium,low,9,namecheap,,,14/09/2026 21:37
 2269fecc-65b7-4be1-abc5-1736b5fcbd15,abridged.london,available,12.98,41.98,high,low,8,namecheap,,,
 07190ebe-67b6-4597-ba4d-df5061c7f064,weddings.london,premium,685.82,31.61,high,low,8,namesilo,,,20/09/2026 01:47
 42c56116-23c2-4612-bc42-1fb17167f488,brutally.london,available,12.98,41.98,medium,low,8,namecheap,,,14/09/2026 01:41
@@ -50,7 +50,7 @@ d5bd07a5-e9c9-46a2-9bb8-de6d95eeb0ef,cheetah.london,premium,137.02,31.58,high,lo
 05af86db-e2a7-4e17-a4e5-c946cc4566d3,gabby.london,available,12.98,41.98,high,low,5,namecheap,,,12/08/2026 03:18
 c2d9e98d-1931-41dd-a59b-a2b584564888,agonising.london,available,12.98,41.98,medium,low,9,namecheap,,,
 f32bc87f-4b89-4a3d-a818-6291effc4967,paneled.london,available,12.98,41.98,medium,low,7,namecheap,,,05/09/2026 00:50
-6600916b-8717-4417-835e-c495858e638a,chatterer.london,available,12.98,41.98,high,low,9,namecheap,,,21/09/2026 12:24
+6600916b-8717-4417-835e-c495858e638a,chatterer.london,available,12.98,41.98,medium,low,9,namecheap,,,21/09/2026 12:24
 4cd65230-d69f-4bcd-a9e3-1dfa78ce4400,risible.london,available,12.98,41.98,medium,low,7,namecheap,,,12/08/2026 19:02
 31f0f2fa-5aca-4c3e-b32d-a31b59d1c0a8,antiviral.london,available,12.98,41.98,high,low,9,namecheap,,,05/08/2026 20:06
 2e351e7b-93b7-4ccd-b175-eaf093298e51,aol.london,premium,344.57,34.45,high,high,3,namecheap,,,27/09/2026 05:03
@@ -66,7 +66,7 @@ cc56de08-cc10-4285-bc89-57e54871a3c2,parcel.london,available,12.98,41.98,high,lo
 b6366568-f782-4e7b-91f1-6256b953b72d,cooker.london,premium,137.49,34.37,high,low,6,namecheap,,,24/09/2026 18:03
 c34aa547-20ac-41ba-aefb-810375cb9166,milne.london,available,31.99,31.99,medium,low,5,namesilo,,,16/09/2026 12:53
 69d31d84-8aa9-4417-ab7a-b1bea5a3e1d1,oldline.london,available,12.98,41.98,medium,low,7,namecheap,,,04/09/2026 01:51
-d2c3330b-e16d-4bf6-a0c3-d58891b726a8,acquiesce.london,available,12.98,41.98,high,low,9,namecheap,,,20/09/2026 16:11
+d2c3330b-e16d-4bf6-a0c3-d58891b726a8,acquiesce.london,available,12.98,41.98,medium,low,9,namecheap,,,20/09/2026 16:11
 fda5fcc4-7848-4f4d-9574-a516adf31460,greens.london,available,41.98,,high,low,6,namecheap,,,
 da93fb15-bd44-4bd5-a41f-4d5063c1b23b,loath.london,available,12.98,41.98,medium,low,5,namecheap,,,24/08/2026 08:17
 b6400dee-d7fa-45aa-a082-cda498fbbcd3,discursive.london,available,12.98,41.98,medium,low,10,namecheap,,,14/08/2026 06:00
@@ -111,7 +111,7 @@ cb184cac-ba52-4888-9cb2-84ab012d6340,splitting.london,available,12.98,41.98,high
 2b2545d5-1994-41d1-bf1b-0bb88b8ea995,menstrual.london,available,12.98,41.98,high,low,9,namecheap,,,11/08/2026 20:59
 69aaf3e1-02f7-4f9f-8d10-0fd7ef2d7b0a,butterball.london,available,12.98,41.98,medium,low,10,namecheap,,,17/08/2026 23:59
 c9ab5e4c-981d-4c82-8ef7-51aa2a26c656,trimly.london,available,31.99,31.99,medium,low,6,namesilo,,,16/09/2026 09:29
-fc32d4e5-5c38-47eb-ad03-24452d91448a,boneless.london,available,12.98,41.98,high,low,8,namecheap,,,10/08/2026 18:38
+fc32d4e5-5c38-47eb-ad03-24452d91448a,boneless.london,available,12.98,41.98,medium,low,8,namecheap,,,10/08/2026 18:38
 7f3ff2f9-1627-40db-bfa0-5a6a8081f4c2,testicular.london,available,12.98,41.98,medium,low,10,namecheap,,,11/09/2026 12:06
 113a1fe6-7b7b-4990-b36e-0bf84f272f1f,checked.london,premium,64.31,31.88,high,low,7,namesilo,,,12/08/2026 03:36
 057e3a44-5ab0-4f68-93c7-5d8d2ac96eab,jumbled.london,available,12.98,41.98,medium,low,7,namecheap,,,21/08/2026 08:39
@@ -133,7 +133,7 @@ f3997425-723e-4814-b92e-878da81bfbb4,yttrium.london,available,31.99,31.99,medium
 3df27d70-6069-496f-baa4-6e89f0244357,despairing.london,available,12.98,41.98,medium,low,10,namecheap,,,14/08/2026 03:56
 8dbf8777-9eb0-4fa6-96ab-93fc9d4ca7be,queensland.london,premium,137.49,34.37,high,low,10,namecheap,,,25/09/2026 10:12
 5b4f86ca-1e7c-4314-912a-765d625230a2,girl.london,premium,6765.62,,high,low,4,name.com,,,
-717d92d7-959e-44c4-992f-555775c2871a,foldaway.london,available,12.98,41.98,high,low,8,namecheap,,,18/08/2026 10:07
+717d92d7-959e-44c4-992f-555775c2871a,foldaway.london,available,12.98,41.98,medium,low,8,namecheap,,,18/08/2026 10:07
 5587071c-2d52-48ae-9fd4-01965590169a,diverted.london,available,12.98,41.98,high,low,8,namecheap,,,
 12851c0a-4133-46d6-a68f-e56cc84da49c,wholesome.london,premium,64.75,32.1,high,low,9,namesilo,,,
 9dfb7abc-0ea9-4dd5-bcfa-553e89645472,product.london,premium,338.33,31.19,high,medium,7,namesilo,,,25/09/2026 22:31
@@ -148,24 +148,26 @@ c0528e78-fea3-4289-841b-b1f8f0e4b95e,windward.london,premium,64.4,31.93,high,low
 87f30f49-1e3b-482c-9156-aeec99052f9c,puglia.london,available,31.99,31.99,high,low,6,namesilo,,,19/09/2026 22:41
 c7073caf-c3e3-4b16-83f5-60cca28ad425,clocks.london,available,12.98,41.98,high,low,6,namecheap,,,18/09/2026 06:14
 78a9729c-60fa-4411-92eb-581e26e35409,chem.london,available,31.99,31.99,high,low,4,namesilo,,,18/09/2026 00:59
+8268132a-c0fa-4145-a686-469e49a2e4f8,virgil.london,premium,58.2,27.99,high,low,6,dynadot,,,28/09/2026 02:58
 d1a4b4af-4390-4fd3-9f3d-6343c9064928,nestling.london,available,12.98,41.98,high,low,8,namecheap,,,25/08/2026 00:18
 5353a457-09f6-4146-99b9-01f8d8b745cf,luteal.london,available,12.98,41.98,medium,low,6,namecheap,,,24/08/2026 12:07
 e259737b-932e-4e3e-8966-b95ee4df93cc,rugose.london,available,12.98,41.98,high,medium,6,namecheap,,,09/09/2026 19:20
 96533778-5c31-49bd-ad03-940f207c1c27,ssr.london,premium,62.9,31.19,high,low,3,namesilo,,,25/09/2026 12:03
 bb9fbd08-03d0-4056-941a-42b27940d879,afghan.london,premium,64.44,31.95,high,low,6,namesilo,,,
 90a5b768-05e7-47a3-b70e-03349d0bd06b,jerk.london,available,31.99,31.99,high,low,4,namesilo,,,25/09/2026 11:41
+9df331b6-054b-4b90-b9d1-7ef5aa52fa34,contacted.london,available,14.24,39.04,medium,low,9,porkbun,,,28/09/2026 00:26
 7c3343d6-ddd3-4866-82cf-1bb6ae44921c,aflare.london,available,12.98,41.98,medium,low,6,namecheap,,,
-57f84698-f930-4d9e-8000-ccaa7f5a7610,tested.london,premium,64.75,32.1,high,low,6,namesilo,,,
-aeb6334d-427d-4af3-bb34-a137998dd511,cecilia.london,premium,63.07,31.27,high,low,7,namesilo,,,26/09/2026 03:37
+57f84698-f930-4d9e-8000-ccaa7f5a7610,tested.london,premium,55.02,27.62,high,low,6,spaceship,,,28/09/2026 02:20
+aeb6334d-427d-4af3-bb34-a137998dd511,cecilia.london,premium,63.07,31.27,medium,low,7,namesilo,,,26/09/2026 03:37
 e6919630-71b9-48e3-b91c-d4dcb278eb41,betterment.london,available,12.98,41.98,high,low,10,namecheap,,,18/09/2026 18:20
 8243b27c-5a76-49dc-aeb6-86ce5d3a247c,catchy.london,available,12.98,41.98,high,low,6,namecheap,,,11/08/2026 21:20
 e2d064cd-e278-4cb7-969d-071391aa0997,dishwasher.london,available,31.99,31.99,high,low,10,namesilo,,,
 10ca6a37-4a55-450e-a45e-553ea1a675fa,rotatable.london,available,12.98,41.98,high,medium,9,namecheap,,,09/09/2026 18:46
 eb0c0c38-ca67-4e67-985c-1ba87ee311f8,addax.london,available,31.99,31.99,medium,low,5,namesilo,,,17/09/2026 06:40
-3baca845-b748-4324-86a9-bc128f466d8b,skies.london,available,12.98,41.98,high,low,5,namecheap,,,18/09/2026 07:49
+3baca845-b748-4324-86a9-bc128f466d8b,skies.london,available,12.98,41.98,medium,low,5,namecheap,,,18/09/2026 07:49
 be47d033-444e-46e0-8588-0ef65cd62b2a,confirm.london,available,31.99,31.99,high,low,7,namesilo,,,27/09/2026 05:57
 c9285d12-f2af-4501-aae9-0c3a0bd6c22c,shockingly.london,available,12.98,41.98,medium,low,10,namecheap,,,16/09/2026 01:31
-f794c0f7-076e-4e1c-afcb-31ec1e8172d3,permeable.london,available,12.98,41.98,high,low,9,namecheap,,,08/09/2026 17:36
+f794c0f7-076e-4e1c-afcb-31ec1e8172d3,permeable.london,available,12.98,41.98,medium,low,9,namecheap,,,08/09/2026 17:36
 a1248682-2bad-482b-a3c6-313ddc65a358,kuwaiti.london,resell,,,high,low,7,"GoDaddy.com, LLC",27/07/2015 19:10,27/07/2027 23:59,26/09/2026 07:07
 7fb348f9-f7b3-48d3-bc6b-c0a161c036aa,slangy.london,available,12.98,41.98,medium,low,6,namecheap,,,10/09/2026 09:59
 7776c2fb-3d89-4373-9cc6-b9ba1f275002,alhambra.london,premium,341.91,31.52,high,low,8,namesilo,,,18/09/2026 07:18
@@ -220,8 +222,8 @@ a78a0ea0-4caf-4c4f-b8d2-48a7afbc15e3,congrats.london,available,31.99,31.99,high,
 7f60124a-fea3-46ef-a7bb-a3d5d8d308cf,hears.london,available,31.99,31.99,medium,low,5,namesilo,,,18/09/2026 07:47
 ab08e549-3306-4a0a-9b8f-d1d851b11c34,ativan.london,available,59.99,59.99,medium,low,6,name.com,,,20/09/2026 21:30
 97f472a2-a006-4350-bd61-d58a256fe6b9,maze.london,premium,339.79,,high,low,4,name.com,,,
-7b46b1e3-f3e3-4f6d-972c-04e51c5bd8ff,hunted.london,available,31.99,31.99,high,low,6,namesilo,,,25/09/2026 10:59
-d0bb6886-f015-4d6d-85ae-a91b3f175173,vendable.london,available,12.98,41.98,high,low,8,namecheap,,,24/08/2026 20:30
+7b46b1e3-f3e3-4f6d-972c-04e51c5bd8ff,hunted.london,available,31.99,31.99,medium,low,6,namesilo,,,25/09/2026 10:59
+d0bb6886-f015-4d6d-85ae-a91b3f175173,vendable.london,available,12.98,41.98,medium,low,8,namecheap,,,24/08/2026 20:30
 20929a9a-573e-4974-931a-3d32c44e0a81,bribable.london,available,12.98,41.98,medium,low,8,namecheap,,,11/08/2026 03:42
 a5d77142-c7c6-43ed-ac80-e16f35fe86c5,bromic.london,available,12.98,41.98,medium,low,6,namecheap,,,11/08/2026 05:32
 1460e188-b907-4310-bea1-4e30e33e364c,delusional.london,available,12.98,41.98,medium,low,10,namecheap,,,14/08/2026 00:51
@@ -238,8 +240,9 @@ e134417c-51a4-4486-9236-585b80b98347,aladdin.london,available,31.99,31.99,high,m
 99307c37-a63a-495f-82c5-c31bd6651fdb,fanciful.london,available,12.98,41.98,high,low,8,namecheap,,,17/08/2026 21:56
 b4237444-eb2e-49ef-a42c-02fd9ccdcd60,refractive.london,available,12.98,41.98,medium,low,10,namecheap,,,13/08/2026 23:32
 91eb3bd8-9b98-49a4-aa1e-854502c93dfa,glazed.london,available,12.98,41.98,high,low,6,namecheap,,,20/08/2026 14:05
-ff047bd5-43ee-4972-94e7-cb750177ed0c,dubious.london,available,12.98,41.98,high,low,7,namecheap,,,14/08/2026 16:57
+ff047bd5-43ee-4972-94e7-cb750177ed0c,dubious.london,available,12.98,41.98,medium,low,7,namecheap,,,14/08/2026 16:57
 71c60ac6-91b0-4155-bbdd-16d2932b1814,unrevealed.london,available,12.98,41.98,medium,low,10,namecheap,,,12/09/2026 08:09
+04898130-dcea-4927-9259-bf105e636447,dodge.london,available,31.99,31.99,high,low,5,namesilo,,,28/09/2026 01:47
 4eed25f2-5860-43e0-b033-4a04631edf2d,aggressive.london,premium,63.74,31.6,high,low,10,namesilo,,,21/09/2026 22:59
 15aa6a3a-6f19-44d5-8990-9bfb3b4af38b,photographer.london,premium,3657.14,31.27,high,low,12,namesilo,,,27/09/2026 06:12
 36e560e6-1d27-4302-a0c3-9147b41c5a0e,duck.london,premium,135.69,,high,low,4,name.com,,,
@@ -311,7 +314,7 @@ c9889e62-716d-447c-bcde-2604246485f8,maximizing.london,available,12.98,41.98,hig
 f3b5ff08-b348-44cd-876d-a96fcf1b30a9,beany.london,available,12.98,41.98,medium,low,5,namecheap,,,22/09/2026 20:33
 32186cda-7b48-4a28-8e19-5c001a65b593,glamorous.london,premium,135.36,59.99,high,low,9,name.com,,,19/08/2026 00:15
 35ce4509-f5dd-455e-be07-e6a2cbb3bee6,menial.london,premium,68.28,59.99,medium,low,6,name.com,,,24/08/2026 20:12
-41cf7c8a-43d9-4845-b41e-86cf59e302b3,measles.london,available,41.98,,high,low,7,namecheap,,,
+41cf7c8a-43d9-4845-b41e-86cf59e302b3,measles.london,available,41.98,,medium,low,7,namecheap,,,
 7ade9965-e81a-4575-99cd-da6e4b6b306b,czechoslovak.london,available,31.99,31.99,high,low,12,namesilo,,,26/09/2026 03:18
 1ed4a7e1-74ba-4ddb-a52d-88511ae3efe3,thresher.london,available,31.99,31.99,medium,low,8,namesilo,,,18/09/2026 13:23
 541972c2-365b-42b0-8633-5b36279464ac,siris.london,available,12.98,41.98,high,low,5,namecheap,,,18/09/2026 03:05
@@ -322,8 +325,8 @@ a3935334-30ea-43a9-a3c4-41624846dac4,unchecked.london,available,12.98,41.98,medi
 1fb8101e-ac75-4dd3-8b43-c468706e6311,toynbee.london,available,31.99,31.99,high,low,7,namesilo,,,20/09/2026 08:19
 a341160a-c6e6-47ee-acbb-470ce313107e,diagonally.london,available,12.98,41.98,medium,low,10,namecheap,,,14/09/2026 12:34
 2671e3cb-c09d-4e15-bff5-28567e3f4261,simpleness.london,available,59.99,59.99,medium,low,10,name.com,,,24/09/2026 13:51
-e6085685-70da-4bc9-b634-543fccbe534a,mined.london,available,12.98,41.98,high,low,5,namecheap,,,24/08/2026 23:40
-b75c96aa-0472-45f6-8f85-e9559055dd47,haste.london,available,41.98,,high,low,5,namecheap,,,
+e6085685-70da-4bc9-b634-543fccbe534a,mined.london,available,12.98,41.98,medium,low,5,namecheap,,,24/08/2026 23:40
+b75c96aa-0472-45f6-8f85-e9559055dd47,haste.london,available,31.99,31.99,high,low,5,namesilo,,,27/09/2026 17:08
 b92ae63c-2992-4e0f-b3fd-38bc4d2f28e9,masonic.london,available,12.98,41.98,high,low,7,namecheap,,,24/08/2026 16:39
 59114574-0378-48fe-98c0-481b57bb8711,valid.london,available,31.99,31.99,high,low,5,namesilo,,,
 97258813-52bd-410e-8e66-663c2323c48e,zig.london,premium,692.68,31.93,high,low,3,namesilo,,,13/09/2026 15:15
@@ -336,19 +339,20 @@ a7e41f28-e2f7-43f4-bf56-320472b04081,believe.london,available,41.98,,high,low,7,
 04761255-da84-44b2-910d-9a2a152ef5df,abampere.london,available,31.99,31.99,medium,low,8,namesilo,,,16/09/2026 13:54
 122db8eb-1c90-42e7-a624-4e2245425bf8,pristine.london,available,31.99,31.99,high,low,8,namesilo,,,27/09/2026 06:11
 948b4836-ca38-41ac-9576-4fa2f469aa1c,arng.london,available,31.99,31.99,medium,low,4,namesilo,,,20/09/2026 08:02
-546b0660-5ffb-4d6b-bf21-7f7006cbc820,antihero.london,available,31.99,31.99,high,low,8,namesilo,,,19/09/2026 14:35
+546b0660-5ffb-4d6b-bf21-7f7006cbc820,antihero.london,available,31.99,31.99,medium,low,8,namesilo,,,19/09/2026 14:35
 90053870-7930-4d07-9295-fcb70d601e87,rimy.london,available,12.98,41.98,medium,low,4,namecheap,,,09/09/2026 17:41
 05ca4046-2e6e-4875-8544-1ba8fd4f95f3,yearlong.london,available,12.98,41.98,medium,low,8,namecheap,,,13/09/2026 14:24
 b82cd5f0-10fb-42b4-94a1-d269bc1f65af,augmentin.london,available,31.99,31.99,medium,low,9,namesilo,,,18/09/2026 22:59
-7a268744-797f-40ec-bc7a-89d52f4537b0,rhymed.london,available,12.98,41.98,high,low,6,namecheap,,,09/09/2026 16:51
+7a268744-797f-40ec-bc7a-89d52f4537b0,rhymed.london,available,12.98,41.98,medium,low,6,namecheap,,,09/09/2026 16:51
 be5a12e8-e731-4d08-8b44-b4e0b5fe2fb2,almost.london,premium,64.75,32.1,high,low,6,namesilo,,,
 9c028644-3151-4d1e-aca5-bd9de7ece9cf,dues.london,available,12.98,41.98,high,low,4,namecheap,,,19/09/2026 19:46
 4eb2cbbb-17b1-4a20-8979-43cfc94b61a9,polyester.london,available,31.99,31.99,high,low,9,namesilo,,,
 aed5ca56-623d-4083-98f0-501f614b71da,unclothed.london,available,12.98,41.98,medium,low,9,namecheap,,,12/09/2026 05:30
 9b002a61-701c-4e45-87ab-b53c0b028c2b,ambivalent.london,available,,,medium,low,10,,,,
 4c95151a-c789-4310-abd0-f4c2e10c7efd,ursine.london,available,12.98,41.98,low,low,6,namecheap,,,12/09/2026 23:53
-53c4c15d-a18f-4257-bed2-d5ec6d74cac4,permissive.london,available,12.98,41.98,high,low,10,namecheap,,,08/09/2026 17:48
-e990a2fd-5d74-4c3e-8d83-a4731e6575b8,diehard.london,available,12.98,41.98,high,low,7,namecheap,,,11/09/2026 18:42
+9e71f326-f42a-4bde-b7dc-76828304b39f,oceania.london,available,10.18,28.2,high,low,7,spaceship,,,27/09/2026 15:02
+53c4c15d-a18f-4257-bed2-d5ec6d74cac4,permissive.london,available,12.98,41.98,medium,low,10,namecheap,,,08/09/2026 17:48
+e990a2fd-5d74-4c3e-8d83-a4731e6575b8,diehard.london,available,12.98,41.98,medium,low,7,namecheap,,,11/09/2026 18:42
 67c2d4f9-0725-4583-984c-2fbd06fcf6ea,injectable.london,available,12.98,41.98,high,low,10,namecheap,,,22/08/2026 05:36
 7cacd118-7a9d-42bf-a9c9-f48f1665a915,balker.london,available,12.98,41.98,medium,low,6,namecheap,,,03/09/2026 18:54
 24dd531f-6d50-45c5-8eda-8ad18f5d4c03,union.london,premium,1360.22,,high,low,5,name.com,,,
@@ -365,6 +369,7 @@ b8a42a22-10d3-41d3-913c-fa1e231a6433,burr.london,premium,64.14,31.8,medium,low,4
 023b9145-0420-4696-8e8c-c94bcd7a3db7,sidesaddle.london,available,12.98,41.98,medium,low,10,namecheap,,,16/09/2026 01:43
 8dc13865-7f7e-4eec-85c8-c5df0828937b,feature.london,premium,136.64,31.49,high,low,7,namesilo,,,23/09/2026 13:48
 4cb9aa51-9f78-46c7-9bf7-c0fd23812cfa,schematic.london,available,12.98,41.98,high,low,9,namecheap,,,09/09/2026 23:02
+080b796e-a294-49b1-a048-6f0db6dd78a3,kara.london,premium,135.68,31.27,high,low,4,namesilo,,,27/09/2026 16:38
 db132eed-7fe8-44a2-933c-6c7237812efb,tush.london,premium,64.22,31.84,medium,low,4,namesilo,,,09/08/2026 11:45
 d0042174-4e24-410e-bb73-a06e5756452b,timorous.london,available,12.98,41.98,medium,low,8,namecheap,,,11/09/2026 16:05
 b86b6806-51ca-4edd-ae49-d78cf30b2a5e,needs.london,available,31.99,31.99,high,low,5,namesilo,,,
@@ -380,7 +385,7 @@ d72e47c2-a32d-42d8-9902-422c64506c57,cherished.london,available,12.98,41.98,high
 ff372d3a-82c5-4b96-9374-fd04b5ba3844,thirty.london,available,12.98,41.98,high,low,6,namecheap,,,
 42445160-32c6-4004-bfae-7f16aa8fc05f,disposable.london,available,12.98,41.98,high,low,10,namecheap,,,14/08/2026 12:03
 b3c4cf5d-ed6d-48f0-b0eb-145ee600a8a0,squeak.london,available,31.99,31.99,high,low,6,namesilo,,,24/09/2026 15:54
-5a149e72-a993-48e1-aa19-819b8d4ccdab,tolu.london,available,31.99,31.99,high,low,4,namesilo,,,22/09/2026 00:08
+5a149e72-a993-48e1-aa19-819b8d4ccdab,tolu.london,available,31.99,31.99,medium,low,4,namesilo,,,22/09/2026 00:08
 496699d9-4c63-464e-bce5-df4d6bd1f089,feasible.london,available,12.98,41.98,high,low,8,namecheap,,,17/08/2026 16:48
 c3d5c842-5ffb-4270-9a69-26075146f78a,syncarpous.london,available,12.98,41.98,medium,low,10,namecheap,,,11/09/2026 06:11
 23639585-77c5-454a-bfc7-50d10e22ae42,mmr.london,premium,64.71,32.08,high,low,3,namesilo,,,
@@ -411,10 +416,12 @@ cdb53df2-cb3d-4d95-b360-9f06815b0321,copular.london,available,12.98,41.98,medium
 711bd983-2f39-4715-86dd-f68e060a4d33,unimpeded.london,available,12.98,41.98,medium,low,9,namecheap,,,12/09/2026 13:10
 2c7a84e2-54be-4d0b-bc5a-08b0aca03341,sachs.london,available,31.99,31.99,medium,low,5,namesilo,,,27/09/2026 01:53
 ff357bc8-0911-4d55-a5a3-9c06882de617,route.london,premium,135.33,31.19,high,low,5,namesilo,,,25/09/2026 07:52
-8dde218d-9dba-404d-b978-26c261a8fe53,wentworth.london,premium,135.33,31.19,high,low,9,namesilo,,,25/09/2026 21:47
+8dde218d-9dba-404d-b978-26c261a8fe53,wentworth.london,premium,135.33,31.19,medium,low,9,namesilo,,,25/09/2026 21:47
 bc5809d5-07cf-4124-9a83-192842dcfbc1,meg.london,premium,65,32.23,high,low,3,namesilo,,,24/08/2026 23:20
+6c16a181-992c-4694-a3a6-4fd0a27cd9ed,grayson.london,premium,135.46,31.22,medium,low,7,namesilo,,,28/09/2026 00:47
 78488fa4-9e86-4e55-9177-b629e91af45f,wilmington.london,available,31.99,31.99,high,low,10,namesilo,,,25/09/2026 11:01
-c871ba96-9beb-46b4-8165-64e14720181f,relatively.london,available,31.99,31.99,high,low,10,namesilo,,,
+c871ba96-9beb-46b4-8165-64e14720181f,relatively.london,available,31.99,31.99,medium,low,10,namesilo,,,
+78c1714e-fe10-4d8a-8ad3-cd71bccea852,eternity.london,premium,109.82,27.61,high,low,8,spaceship,,,28/09/2026 01:51
 14c46003-cc1c-4b18-a889-a5f0165570e0,down.london,premium,135.56,31.25,high,low,4,namesilo,,,24/09/2026 11:53
 02a919dc-5211-46fe-bfa0-3101a49065d3,melodic.london,available,12.98,41.98,high,low,7,namecheap,,,24/08/2026 19:41
 3ba275e4-c037-4e85-954c-4a5665d90e45,dizzily.london,available,12.98,41.98,medium,low,7,namecheap,,,14/09/2026 13:29
@@ -429,11 +436,11 @@ cac89b58-8bcc-4291-93cf-a9189d07e43f,ordained.london,premium,64.25,31.86,medium,
 81d1ee9c-91e1-4793-8b33-8e29ef63dc39,antigenic.london,available,12.98,41.98,medium,low,9,namecheap,,,
 42eeb03b-2d3f-4336-bd8a-1b8f7b125dec,sturdy.london,premium,64.94,32.2,high,low,6,namesilo,,,21/08/2026 00:56
 b73b1df9-0ef6-42cd-ad4d-4c4d2ca8ade3,larger.london,premium,69.49,34.75,high,low,6,namecheap,,,22/09/2026 20:38
-d24098a0-8b21-4162-9bc7-c0d030824ef6,retiring.london,premium,67.45,,high,low,8,name.com,,,
+d24098a0-8b21-4162-9bc7-c0d030824ef6,retiring.london,premium,63.07,31.27,high,low,8,namesilo,,,27/09/2026 13:20
 4c47e55f-1a31-4448-bb40-d8442db0926c,listless.london,available,12.98,41.98,medium,low,8,namecheap,,,14/08/2026 12:00
 3a330a03-6439-4d62-8972-e996e316c250,sisterly.london,available,12.98,41.98,high,low,8,namecheap,,,10/09/2026 08:52
 4d6cac2e-be0b-4e5f-b180-9f9422ee46fd,coronary.london,available,12.98,41.98,high,low,8,namecheap,,,13/08/2026 01:44
-fa8a335e-b84b-41df-8a49-c4fc63be75ac,anu.london,premium,63.76,31.61,high,low,3,namesilo,,,19/09/2026 15:50
+fa8a335e-b84b-41df-8a49-c4fc63be75ac,anu.london,premium,63.76,31.61,medium,low,3,namesilo,,,19/09/2026 15:50
 8024bb7d-c226-45b2-909b-80e69f9f151c,runyon.london,available,31.99,31.99,medium,low,6,namesilo,,,18/09/2026 06:27
 88a57f00-162d-47f8-af86-36c8c75516b0,bracelet.london,available,59.99,59.99,high,low,8,name.com,,,22/09/2026 01:56
 970d5f53-f02c-4d61-84ee-cceb957b606e,gamey.london,available,12.98,41.98,medium,low,5,namecheap,,,18/08/2026 19:57
@@ -441,6 +448,7 @@ fa8a335e-b84b-41df-8a49-c4fc63be75ac,anu.london,premium,63.76,31.61,high,low,3,n
 06ebc275-5b87-4cdb-bb55-48f1f09557cf,period.london,premium,135.31,,high,low,6,name.com,,,
 d47ccc65-8a53-4303-ac04-b63a80e1bcc9,pls.london,premium,64.05,31.75,high,low,3,namesilo,,,
 ed65f7fc-6477-432d-b6fb-0d562c67ef36,corps.london,premium,64.62,32.04,high,low,5,namesilo,,,
+4c7f83fb-d4ee-4593-a415-68cb88ceca2f,wendell.london,premium,583.02,28.04,medium,low,7,dynadot,,,27/09/2026 20:17
 a745abc5-15dd-4050-adc7-dffe0163bd53,animals.london,available,41.98,,high,low,7,namecheap,,,
 3ff9db36-4623-43f7-8a1d-5fa3e42a817c,leave.london,available,31.99,31.99,high,low,5,namesilo,,,
 dfaba67b-2901-42d3-9ed8-b478c3ce64ed,scatty.london,available,12.98,41.98,medium,low,6,namecheap,,,
@@ -450,15 +458,15 @@ f9330e38-e67c-4fb1-9087-17b3020e7fca,patrician.london,available,12.98,41.98,medi
 4a862cec-bf6e-44a2-8ec8-edd6543f565b,greasewood.london,available,31.99,31.99,medium,low,10,namesilo,,,24/09/2026 00:46
 981abd09-b933-408f-bc49-582a3a6b86ab,flowery.london,available,12.98,41.98,high,low,7,namecheap,,,18/08/2026 09:09
 b602d092-15d6-41b7-9cd5-156a902fb4f5,bolshevik.london,available,12.98,41.98,high,low,9,namecheap,,,10/08/2026 17:50
-562ee167-4b0d-4f86-ade8-6660ba8c5b14,adorer.london,available,31.99,31.99,high,low,6,namesilo,,,17/09/2026 09:45
+562ee167-4b0d-4f86-ade8-6660ba8c5b14,adorer.london,available,31.99,31.99,medium,low,6,namesilo,,,17/09/2026 09:45
 a3c7eade-2254-4cf0-bfc4-067551ba3a9d,mayoral.london,available,12.98,41.98,high,low,7,namecheap,,,24/08/2026 18:00
 5a94b091-1275-496a-a323-d0266c7eaf98,axe.london,premium,679.48,,high,low,3,name.com,,,
-af6d594c-8cf8-4421-9c03-58d86977d2b0,dangerous.london,available,59.99,59.99,high,low,9,name.com,,,13/08/2026 17:15
+af6d594c-8cf8-4421-9c03-58d86977d2b0,dangerous.london,available,59.99,59.99,medium,low,9,name.com,,,13/08/2026 17:15
 36ae75fa-a308-4f7b-8eb4-ae33adb941d9,flossy.london,available,12.98,41.98,medium,low,6,namecheap,,,14/08/2026 17:44
 4a5f438f-9057-4bd4-ba03-dc8753d9557d,bravery.london,available,41.98,,high,low,7,namecheap,,,
 1550b6ff-d334-4942-80bb-fe8c52f3a27f,conforming.london,available,12.98,41.98,high,low,10,namecheap,,,12/08/2026 21:11
 f5e362c2-7811-4280-b62a-1756e3aa64b6,tunica.london,available,31.99,31.99,medium,low,6,namesilo,,,17/09/2026 10:35
-561198f0-4f78-473b-bb80-a694f54dc31d,bethe.london,available,31.99,31.99,high,low,5,namesilo,,,23/09/2026 11:12
+561198f0-4f78-473b-bb80-a694f54dc31d,bethe.london,available,31.99,31.99,medium,low,5,namesilo,,,23/09/2026 11:12
 47db7283-e914-4f47-88f6-22f661b1565c,wanderer.london,available,12.98,41.98,high,low,8,namecheap,,,23/09/2026 20:11
 ce00909e-199b-4d99-874b-6ee697f0e43a,ministrant.london,available,12.98,41.98,medium,low,10,namecheap,,,24/08/2026 23:57
 98bebf0d-2260-4fcd-9034-7d3f6c5e3f48,fixation.london,available,31.99,31.99,high,low,8,namesilo,,,20/09/2026 09:06
@@ -477,14 +485,14 @@ aad1f7c4-989f-46de-9414-e2c72a5629ad,pasty.london,premium,64.74,32.1,high,low,5,
 89d25db1-edc2-4927-a043-9b7b6a5aded2,hamilton.london,premium,339.4,,high,medium,8,name.com,,,
 4eea26d3-6c25-4db5-83ca-bc8a25e938bd,rowe.london,premium,135.33,31.19,high,low,4,namesilo,,,25/09/2026 16:05
 85edb315-ac92-4c17-a79f-a77fa1d8f4e0,shelter.london,premium,135.56,,high,low,7,name.com,,,
-b45a1925-a8ee-4b56-a48e-06e07407209c,shallow.london,premium,134.89,,medium,low,7,name.com,,,
+b45a1925-a8ee-4b56-a48e-06e07407209c,shallow.london,premium,109.87,27.62,medium,low,7,spaceship,,,27/09/2026 20:23
 fba611c8-c341-4b30-997e-37e8ff38ea97,impaired.london,premium,68.21,59.99,medium,low,8,name.com,,,21/08/2026 21:40
 4b9dcd1c-a9f7-48e8-bfe4-4f62c67ad132,varicella.london,available,12.98,41.98,medium,low,9,namecheap,,,24/09/2026 14:29
 a63288f0-c87c-4b6e-9548-95336f317f02,ein.london,premium,66.25,59.99,high,low,3,name.com,,,26/09/2026 03:08
-1d0e5029-72c3-47c6-a10e-1a66d973e0b4,hiss.london,available,31.99,31.99,high,low,4,namesilo,,,24/09/2026 06:41
+1d0e5029-72c3-47c6-a10e-1a66d973e0b4,hiss.london,available,31.99,31.99,medium,low,4,namesilo,,,24/09/2026 06:41
 b2345720-7ec5-46ac-b1f5-3b0364475b7e,omen.london,premium,135.68,31.27,high,low,4,namesilo,,,27/09/2026 07:13
 abab7663-39ba-4d4e-a0e5-3452a9da398e,notation.london,premium,63.76,31.61,high,low,8,namesilo,,,19/09/2026 10:43
-2675d094-14dd-46c4-8cfc-69ab40c8b915,naif.london,available,12.98,41.98,high,low,4,namecheap,,,03/09/2026 12:52
+2675d094-14dd-46c4-8cfc-69ab40c8b915,naif.london,available,12.98,41.98,medium,low,4,namecheap,,,03/09/2026 12:52
 bda9b51f-49af-4197-823a-7adf4cf295a1,unlatched.london,available,12.98,41.98,medium,low,9,namecheap,,,12/09/2026 01:38
 26fa634a-5571-4522-b9ea-002342c93a11,portsmouth.london,premium,62.9,31.19,high,low,10,namesilo,,,25/09/2026 10:02
 be82e237-d7c1-4d2b-ae5e-7df2f743ffbc,watchful.london,available,12.98,41.98,high,low,8,namecheap,,,
@@ -496,9 +504,10 @@ dfb7b43a-a241-4384-8d5d-2cff7b2e6169,uncensored.london,premium,1404.85,35.13,hig
 c8f0f112-5021-4205-a832-7a3c45049a3e,proceeded.london,available,31.99,31.99,medium,low,9,namesilo,,,18/09/2026 01:36
 3f969c73-5537-4b47-b95e-cd4deb2b9392,ashir.london,available,12.98,41.98,medium,low,5,namecheap,,,20/09/2026 13:53
 7dc51add-d39c-407f-b8b0-d346c7ce10be,bindweed.london,available,31.99,31.99,medium,low,8,namesilo,,,23/09/2026 17:12
+65a0aea1-0d6c-4409-a984-226e81e5f031,chalmers.london,available,31.99,31.99,medium,low,8,namesilo,,,27/09/2026 20:38
 48780834-35f8-4136-8a57-6eb23d495b18,laminal.london,available,12.98,41.98,medium,low,7,namecheap,,,22/08/2026 19:09
 5ad27bbc-a07f-4b8b-bd5e-f8d2e3757149,curt.london,premium,135.11,59.99,medium,low,4,name.com,,,11/08/2026 07:05
-d7293660-4938-4269-9f00-b79e4f9c9d42,gao.london,premium,62.9,31.19,high,low,3,namesilo,,,25/09/2026 06:16
+d7293660-4938-4269-9f00-b79e4f9c9d42,gao.london,premium,62.9,31.19,medium,low,3,namesilo,,,25/09/2026 06:16
 7ca2a51a-b3bb-4e5e-ba65-775d739467e1,bemock.london,available,12.98,41.98,medium,low,6,namecheap,,,25/08/2026 02:26
 1127e5be-a0f9-4cb0-9891-b4fd5abffe2c,carmine.london,available,12.98,41.98,high,low,7,namecheap,,,10/08/2026 15:02
 5eb7eb55-ef3c-4b56-9ff6-de48534efb13,spirea.london,available,12.98,41.98,medium,low,6,namecheap,,,20/09/2026 17:27
@@ -519,7 +528,7 @@ a2238955-7b2c-4029-86f0-279bf5cf8b89,abila.london,available,31.99,31.99,medium,l
 5f1377c8-ea7b-4a0a-ad1f-5e3ce387a4b2,juvenile.london,available,12.98,41.98,high,low,8,namecheap,,,22/08/2026 14:58
 dd79d374-fad9-4e82-851b-8a1656f9236a,perfidy.london,available,31.99,31.99,medium,low,7,namesilo,,,23/09/2026 11:25
 7456387e-75d7-4aeb-9e8e-adf2ca708f40,wakeless.london,available,12.98,41.98,low,low,8,namecheap,,,13/09/2026 07:45
-70f39225-30fe-476e-b6d9-945c7dd8991e,iodin.london,available,12.98,41.98,high,low,5,namecheap,,,21/08/2026 17:26
+70f39225-30fe-476e-b6d9-945c7dd8991e,iodin.london,available,12.98,41.98,medium,low,5,namecheap,,,21/08/2026 17:26
 b87cc6fc-ff20-4c82-85f0-5e84a6a5b2e5,neonatal.london,available,12.98,41.98,medium,low,8,namecheap,,,03/09/2026 15:27
 5f5559f9-f898-4bd1-ac8e-22349724f1b0,recipe.london,available,31.99,31.99,high,low,6,namesilo,,,
 45ef337d-78e5-4d08-bea8-9db7ec34b36e,acrodont.london,available,31.99,31.99,medium,low,8,namesilo,,,17/09/2026 03:41
@@ -542,6 +551,7 @@ b60b6037-7eca-4456-85f1-2eedfa51faec,hitch.london,premium,136,59.99,medium,low,5
 7855ea5a-7aea-4372-8400-a5d42c81d0d2,weekends.london,premium,69.39,34.7,high,low,8,namecheap,,,20/09/2026 22:23
 972b52fe-c010-4392-80ca-3dceddb61b99,savoury.london,available,12.98,41.98,high,low,7,namecheap,,,25/08/2026 08:52
 3c7bed01-2ce1-4461-9064-af1cc073fc09,small.london,available,12.98,41.98,high,low,5,namecheap,,,22/09/2026 19:21
+09426aa5-0854-42b3-a7db-67567a68a462,rockford.london,available,28.04,28.04,high,low,8,dynadot,,,27/09/2026 15:41
 18a0796e-c2ac-4ec3-b4ee-03c83dbd57be,anguish.london,premium,138.78,34.7,medium,low,7,namecheap,,,19/09/2026 07:36
 3496c13b-54a4-4cf9-be37-08e85125ad76,observation.london,premium,63.07,31.27,high,low,11,namesilo,,,26/09/2026 00:49
 88ef1750-5c33-4b8d-ac2e-54be86b72e37,rant.london,premium,69.04,34.52,high,low,4,namecheap,,,24/09/2026 03:37
@@ -549,7 +559,7 @@ e30bafc5-6365-44f5-bd31-24b642621d52,bacca.london,available,31.99,31.99,high,low
 bd3774ac-5a7a-4859-bc1b-7339a6b22f55,underway.london,available,12.98,41.98,high,low,8,namecheap,,,12/09/2026 07:42
 8551ee7a-8736-4189-9479-5d507cdb82c7,runners.london,premium,63.57,31.52,high,low,7,namesilo,,,18/09/2026 06:01
 09a0e757-98f9-4ff6-a69a-c94a956a8d22,diamond.london,premium,1393.05,34.83,high,low,7,namecheap,,,21/09/2026 16:47
-ef4a2738-a27c-4166-a6cd-4d8bbdc26db8,ldopa.london,available,31.99,31.99,high,low,6,namesilo,,,23/09/2026 07:45
+ef4a2738-a27c-4166-a6cd-4d8bbdc26db8,ldopa.london,available,31.99,31.99,medium,low,6,namesilo,,,23/09/2026 07:45
 a0051bba-0a7c-4183-82e3-5f54d516aeb2,herself.london,available,31.99,31.99,medium,low,7,namesilo,,,26/09/2026 03:24
 fb636cb8-41fd-4794-8b64-19591b1f11fd,carriage.london,available,31.99,31.99,high,low,8,namesilo,,,
 4039e4d4-16df-4045-b93c-00a2fa650501,batty.london,available,12.98,41.98,medium,low,5,namecheap,,,06/08/2026 20:35
@@ -601,7 +611,7 @@ b43ca0c9-a56b-4e3e-a7d2-2a5b9ad3b94e,grazed.london,available,12.98,41.98,medium,
 c11eaea7-f8e4-4205-89a7-d6b32c247cbf,snooty.london,available,12.98,41.98,medium,low,6,namecheap,,,09/08/2026 20:39
 aaee500f-5e41-4af5-9280-c346d5373ffd,cushion.london,premium,137.49,34.37,high,low,7,namecheap,,,24/09/2026 20:36
 2ed0b973-e401-475e-be17-73d919193e03,mann.london,premium,135.33,31.19,high,low,4,namesilo,,,25/09/2026 07:33
-71ae280b-11d6-44af-9866-d5bdff37822e,sleeping.london,available,31.99,31.99,high,low,8,namesilo,,,
+71ae280b-11d6-44af-9866-d5bdff37822e,sleeping.london,available,12.98,41.98,high,low,8,namecheap,,,27/09/2026 22:26
 a49d9f88-70fd-4176-994c-0692321cb9ae,illicit.london,available,12.98,41.98,high,low,7,namecheap,,,21/08/2026 19:50
 d70fc2a4-f96b-4440-a65b-a58d23d08b81,imitative.london,available,12.98,41.98,medium,low,9,namecheap,,,13/08/2026 03:34
 eff8722e-a7dd-4614-bb81-912e4cb4936e,ballpoint.london,available,31.99,31.99,high,low,9,namesilo,,,21/09/2026 23:21
@@ -634,8 +644,9 @@ cf92ada5-6d1c-422b-9e44-039d242ce567,addictive.london,available,12.98,41.98,high
 1d890521-be35-413c-b88b-7a5a4d9c9a00,ancestry.london,premium,1407.19,35.18,high,medium,8,namecheap,,,08/09/2026 13:19
 6435b0d5-4e48-4a7f-b082-ce6b77576051,troth.london,available,12.98,41.98,medium,low,5,namecheap,,,23/09/2026 11:35
 4352331e-bc34-476b-9296-df76a4324f99,deciding.london,available,12.98,41.98,high,low,8,namecheap,,,13/08/2026 21:23
+d8698ed8-2fce-42cb-ab26-5e2ae7467f20,pine.london,premium,135.46,31.22,high,low,4,namesilo,,,28/09/2026 02:55
 57b4fdfe-9fb7-4777-b80e-3ac851619128,goddamn.london,available,12.98,41.98,medium,low,7,namecheap,,,10/08/2026 12:46
-6a8194a8-6d77-4bf1-8c91-c993367643a2,anklets.london,available,31.99,31.99,high,low,7,namesilo,,,19/09/2026 09:46
+6a8194a8-6d77-4bf1-8c91-c993367643a2,anklets.london,available,31.99,31.99,medium,low,7,namesilo,,,19/09/2026 09:46
 8fc47641-247e-4a76-ab30-ebe0113c154e,mitt.london,premium,63.64,31.55,medium,low,4,namesilo,,,22/09/2026 10:08
 08bd70de-51e4-4d97-a60b-48aabc0a304a,barrow.london,premium,136.91,31.55,medium,low,6,namesilo,,,22/09/2026 08:41
 2384acc0-92d8-4021-b84f-a490fd382fbf,lukewarm.london,available,12.98,41.98,medium,low,8,namecheap,,,20/08/2026 22:43
@@ -649,9 +660,11 @@ e40a0d94-12e3-4076-ab62-987311a61574,apologize.london,available,31.99,31.99,high
 2f75afd7-c69f-440c-abba-a1f1cf115b14,hoops.london,premium,135.9,,high,low,5,name.com,,,
 c883821a-7d2e-4953-865e-fce6f7c89a7d,tied.london,premium,136.42,59.99,high,low,4,name.com,,,22/08/2026 17:45
 a9910c14-a51b-4fc7-b4c8-f8e143601281,january.london,premium,135.91,,high,low,7,name.com,,,
+344af966-ad1e-4ff7-b3f3-c546363d6b68,clemens.london,premium,63.07,31.27,high,low,7,namesilo,,,27/09/2026 12:32
 95089c6c-752b-482c-9a83-3d366eb328d3,symbolic.london,available,12.98,41.98,high,low,8,namecheap,,,16/08/2026 09:31
 826797b0-4def-47c6-bc42-25864a0d982f,unadorned.london,available,12.98,41.98,medium,low,9,namecheap,,,11/09/2026 23:54
 4d019124-172d-47fc-8f5f-49f4bf9f9369,mrna.london,available,31.99,31.99,high,low,4,namesilo,,,25/09/2026 23:11
+30904a7a-0805-41d6-b8ce-07e4a238cf55,willoughby.london,available,31.99,31.99,high,low,10,namesilo,,,28/09/2026 00:32
 7dfa0219-a02c-4fba-b6f6-8f4884fe0eaf,albizia.london,available,31.99,31.99,high,low,7,namesilo,,,18/09/2026 03:01
 3dbae28f-a463-46f8-b4ad-78a6c951a10c,holy.london,premium,136.42,59.99,high,low,4,name.com,,,21/08/2026 10:43
 e74c7291-d3c7-467c-81ac-5e68705d9fd4,slopped.london,available,12.98,41.98,low,low,7,namecheap,,,09/08/2026 15:45
@@ -662,17 +675,17 @@ f5c458d7-0f27-4b5e-a757-dc6b3e1d59a5,pals.london,premium,137.16,31.61,high,low,4
 74aebdd9-d15a-4265-9662-d3b592c8cdf3,organismal.london,available,12.98,41.98,medium,low,10,namecheap,,,04/09/2026 17:47
 344d27b0-aaa6-40e7-b64c-8521d2b08a12,unnerving.london,available,12.98,41.98,high,medium,9,namecheap,,,09/09/2026 12:23
 2f834487-13d2-43ba-acfe-b09abab211b9,spacetravel.london,available,31.99,31.99,high,low,12,namesilo,,,
-34f7877b-153e-4c80-afb2-e7d300baa493,rosen.london,available,31.99,31.99,high,low,5,namesilo,,,26/09/2026 03:15
+34f7877b-153e-4c80-afb2-e7d300baa493,rosen.london,available,31.99,31.99,medium,low,5,namesilo,,,26/09/2026 03:15
 50b0c403-ecb6-45f3-b8b4-9f6d26b6fd74,recessions.london,available,12.98,41.98,medium,low,10,namecheap,,,21/09/2026 06:29
 3b282d43-57f8-4956-9c10-4cdf9b3a4f89,seconds.london,premium,62.9,31.19,high,low,7,namesilo,,,25/09/2026 18:47
 aaa6af56-a72c-4ba5-9c63-e1d9e9674c12,aphid.london,available,31.99,31.99,medium,low,5,namesilo,,,19/09/2026 16:56
 adac946c-a458-4573-b15f-0ddca34ff68a,confirmed.london,available,12.98,41.98,high,low,9,namecheap,,,23/09/2026 19:53
 ac376a3c-12b8-42a4-89a5-af18c1b43fc5,albite.london,available,31.99,31.99,high,low,6,namesilo,,,18/09/2026 02:59
 7cba1c2c-b430-49f6-b979-5d3617677a64,sheathed.london,available,12.98,41.98,high,medium,8,namecheap,,,10/09/2026 06:12
-9e3a32c1-bf2b-4a9b-a599-e5c63a0b57e6,stunningly.london,available,31.99,31.99,high,low,10,namesilo,,,16/09/2026 06:09
+9e3a32c1-bf2b-4a9b-a599-e5c63a0b57e6,stunningly.london,available,31.99,31.99,medium,low,10,namesilo,,,16/09/2026 06:09
 28c73c95-04dd-4fee-a8e1-1a5c785bcefc,subdue.london,available,12.98,41.98,high,low,6,namecheap,,,11/09/2026 07:44
 358d598c-6e5d-42e0-afa1-fb482ce80377,quid.london,premium,138.07,34.52,high,low,4,namecheap,,,24/09/2026 10:37
-031e9a8c-b99c-432b-b165-0094fae51fd1,way.london,premium,674.46,,high,low,3,name.com,,,
+031e9a8c-b99c-432b-b165-0094fae51fd1,way.london,premium,582.74,29.64,high,low,3,porkbun,,,27/09/2026 15:08
 2cd6170f-1d58-4d1b-a88c-ccf516a8bfca,unskilled.london,available,12.98,41.98,medium,low,9,namecheap,,,
 e6aff002-af8a-4708-b4c6-4d629958e7c1,blueberries.london,premium,63.7,31.58,high,low,11,namesilo,,,17/09/2026 17:28
 6eccce8f-4867-468a-bb89-c2dfa851568b,return.london,premium,137.16,31.61,high,low,6,namesilo,,,19/09/2026 03:27
@@ -682,7 +695,7 @@ e0fd2cad-0d2e-4f16-b4e9-b561a11f7717,humphrey.london,available,31.99,31.99,high,
 22bf1147-e4b0-41d7-b70d-2fb60df321e8,flush.london,premium,135.38,59.99,high,low,5,name.com,,,
 9d3196c0-1a8f-4bae-9992-fca31819d71e,elvis.london,premium,135.9,,high,low,5,name.com,,,
 1b86c763-bdad-4c5a-a98a-d2e9b605472d,airless.london,available,12.98,41.98,medium,low,7,namecheap,,,
-36404540-6d7e-4ffd-b4d4-70d24de7fd2e,wooded.london,available,12.98,41.98,high,low,6,namecheap,,,13/09/2026 13:11
+36404540-6d7e-4ffd-b4d4-70d24de7fd2e,wooded.london,available,12.98,41.98,medium,low,6,namecheap,,,13/09/2026 13:11
 1467cb9d-c5e4-4c81-b433-9ae2dfa5f9f8,admiration.london,available,31.99,31.99,high,low,10,namesilo,,,
 964e2f16-05b7-40bc-bd7a-f8cfc72912a4,avahi.london,available,31.99,31.99,medium,low,5,namesilo,,,21/09/2026 08:36
 168bdd01-a064-472b-9de4-c174a2ab56c2,grinder.london,premium,136.34,59.99,medium,low,7,name.com,,,25/08/2026 03:40
@@ -691,7 +704,8 @@ a934a256-cca8-4f2f-a6bc-7f87111f5c30,hides.london,available,12.98,41.98,medium,l
 af426612-1873-4772-be20-f6ce6874b4ba,gird.london,premium,63.76,31.61,medium,low,4,namesilo,,,20/09/2026 06:19
 3b3027c7-27bb-4c20-8b44-8aba79d26e6a,forked.london,available,12.98,41.98,high,low,6,namecheap,,,09/08/2026 20:14
 64c2d282-14d4-4de1-82c8-28111ec957df,continued.london,premium,63.51,31.49,high,low,9,namesilo,,,23/09/2026 22:14
-b60f253b-fdcd-4a4c-9cbc-26c69c0ddd88,their.london,available,31.99,31.99,high,low,5,namesilo,,,
+b60f253b-fdcd-4a4c-9cbc-26c69c0ddd88,their.london,available,31.99,31.99,medium,low,5,namesilo,,,
+8db6b63d-bbd5-4d35-9a74-dfc1f99a5f59,walpole.london,premium,,,high,low,7,,,,28/09/2026 01:54
 a51a6ba1-967d-43bc-b9a7-e8076f13ec77,samarium.london,available,31.99,31.99,medium,low,8,namesilo,,,20/09/2026 23:24
 e56ce201-adbe-49f4-9052-4ae029df5a50,liveness.london,available,31.99,31.99,high,low,8,namesilo,,,19/09/2026 09:04
 1b24410b-9342-4807-8984-d5c56a377038,speaking.london,premium,64.51,31.98,high,medium,8,namesilo,,,10/09/2026 15:24
@@ -725,17 +739,17 @@ ffb8e978-8813-4075-aaad-4d1cd8f7b6ee,admass.london,available,31.99,31.99,medium,
 4ee07935-ff53-4e50-a0b8-f81db66dbf93,christopher.london,premium,62.9,31.19,high,low,11,namesilo,,,25/09/2026 13:15
 0543c542-edec-41d3-b169-797474c7e95a,migrator.london,available,12.98,41.98,medium,low,8,namecheap,,,24/08/2026 22:51
 a0569539-0cf2-4d6f-a1c8-c19f4988cd8e,nihilist.london,available,31.99,31.99,medium,low,8,namesilo,,,19/09/2026 02:26
-8fcce3e4-173e-4564-a326-d59cf15e1833,bhutanese.london,available,12.98,41.98,high,low,9,namecheap,,,09/08/2026 18:24
+8fcce3e4-173e-4564-a326-d59cf15e1833,bhutanese.london,available,12.98,41.98,medium,low,9,namecheap,,,09/08/2026 18:24
 16640de2-5869-4efa-a772-fb1e91e6b94b,ano.london,premium,69.97,34.98,high,low,3,namecheap,,,16/09/2026 18:45
 bf24679b-57a6-4288-8ba2-44b5b034d171,anionic.london,available,12.98,41.98,medium,low,7,namecheap,,,
 8250f1b7-0938-4015-9bc6-67c51dc8c3a4,benne.london,available,31.99,31.99,medium,low,5,namesilo,,,23/09/2026 08:27
 b012e0e5-ab1e-47d9-8452-1cd585c4ada8,rife.london,premium,140.71,35.18,medium,low,4,namecheap,,,04/09/2026 20:07
 d8717b02-2102-4725-9eff-da2c442531de,argot.london,available,12.98,41.98,medium,low,5,namecheap,,,13/09/2026 04:14
-c5703310-b632-4997-bb34-4cb1084152b6,sighted.london,available,31.99,31.99,high,low,7,namesilo,,,
-0153bb09-b92a-4696-a469-1634d546d3f5,alexanders.london,available,31.99,31.99,high,low,10,namesilo,,,18/09/2026 05:47
+c5703310-b632-4997-bb34-4cb1084152b6,sighted.london,available,10.18,28.2,high,low,7,spaceship,,,27/09/2026 21:56
+0153bb09-b92a-4696-a469-1634d546d3f5,alexanders.london,available,31.99,31.99,medium,low,10,namesilo,,,18/09/2026 05:47
 8e019b55-c814-4f68-a9f2-cec00a7f0dd5,artemia.london,available,31.99,31.99,high,low,7,namesilo,,,20/09/2026 10:09
 a4ac2120-3f01-494d-8528-957c433d46ee,cane.london,premium,135.31,,high,low,4,name.com,,,
-543e07c2-b887-457a-8e1a-df2bdb9d8634,clayton.london,available,12.98,41.98,high,low,7,namecheap,,,25/09/2026 21:46
+543e07c2-b887-457a-8e1a-df2bdb9d8634,clayton.london,available,12.98,41.98,medium,low,7,namecheap,,,25/09/2026 21:46
 10b62203-e191-4674-9a85-1834e09d573a,even.london,premium,137.16,31.61,high,medium,4,namesilo,,,19/09/2026 12:57
 2947856a-34af-4b42-b9bf-004a88749335,holdings.london,premium,139.11,34.78,medium,low,8,namecheap,,,17/09/2026 20:27
 7aaea27a-a854-44dd-88c8-648a69990fef,alizarine.london,available,31.99,31.99,medium,low,9,namesilo,,,18/09/2026 08:13
@@ -755,8 +769,9 @@ d38e2798-c8d5-4c9c-81aa-0cacf3451684,defaults.london,available,31.99,31.99,low,l
 dd55d086-0f02-4697-b066-53cb06ca711c,briefcase.london,available,41.98,,high,low,9,namecheap,,,
 3b87104e-5df5-450e-987e-a23d7baf4dd2,weiss.london,premium,137.83,34.45,high,low,5,namecheap,,,25/09/2026 15:49
 f6d6b116-16b8-441a-8882-6bc3d9c2a076,bivalve.london,available,12.98,41.98,high,low,7,namecheap,,,10/08/2026 09:09
-f1d41c6c-5e4f-4f1e-8667-3f035830f0ee,schoolwide.london,available,12.98,41.98,high,low,10,namecheap,,,09/09/2026 23:18
+f1d41c6c-5e4f-4f1e-8667-3f035830f0ee,schoolwide.london,available,12.98,41.98,medium,low,10,namecheap,,,09/09/2026 23:18
 ac0b7e24-cba3-4a59-a163-d484eeb5031f,acetous.london,available,12.98,41.98,medium,low,7,namecheap,,,
+4af12c42-cc4e-4dfc-b9b7-c2c262a658ec,ridge.london,premium,135.46,31.22,high,low,5,namesilo,,,28/09/2026 03:01
 c8b5e2cc-59ac-4cd9-83d9-dc0344412925,chasing.london,available,12.98,41.98,high,low,7,namecheap,,,27/09/2026 06:54
 451eacf1-3819-43e6-86ee-f403d5b3e512,melville.london,premium,68.74,34.37,high,low,8,namecheap,,,25/09/2026 07:18
 c25dfc41-ff1b-4d4b-8914-70125087574c,anaclitic.london,available,12.98,41.98,medium,low,9,namecheap,,,
@@ -764,7 +779,7 @@ c25dfc41-ff1b-4d4b-8914-70125087574c,anaclitic.london,available,12.98,41.98,medi
 b4e71527-406a-47f3-9d9c-83bf80a878c3,kitschy.london,available,12.98,41.98,medium,low,7,namecheap,,,09/08/2026 00:53
 e1ff80b1-597c-41e3-9bf5-d6d80b18b2d5,lossless.london,available,12.98,41.98,medium,low,8,namecheap,,,24/08/2026 09:56
 1cd78d6b-ca6b-4eb6-9346-97a271d8bbd8,mirrored.london,available,12.98,41.98,high,low,8,namecheap,,,25/08/2026 01:11
-a5c5dbd5-e573-4c53-a6e0-ff167a1cb12e,gratuitous.london,available,12.98,41.98,high,low,10,namecheap,,,13/08/2026 03:14
+a5c5dbd5-e573-4c53-a6e0-ff167a1cb12e,gratuitous.london,available,12.98,41.98,medium,low,10,namecheap,,,13/08/2026 03:14
 5d738fd7-c87f-4794-b45f-914c3e0411f2,eristic.london,available,12.98,41.98,medium,low,7,namecheap,,,17/08/2026 12:17
 4d611929-d9a8-46cc-8563-bb6c665abe0e,robertson.london,premium,62.9,31.19,high,low,9,namesilo,,,25/09/2026 09:45
 e497706f-fd6b-46d3-8d0b-3de5830b4b94,magyar.london,available,12.98,41.98,high,low,6,namecheap,,,21/08/2026 15:41
@@ -780,7 +795,7 @@ d65f375e-91a9-4eec-bef5-e95804fe3d78,captious.london,available,12.98,41.98,mediu
 95fba874-3ce4-4bf1-ae19-487b2f0dd793,alpinia.london,available,31.99,31.99,medium,low,7,namesilo,,,18/09/2026 14:02
 e36cc354-efc3-4957-a135-12672f1d8194,angelo.london,premium,135.33,31.19,high,low,6,namesilo,,,25/09/2026 16:57
 ab81956b-12eb-4318-acf6-1292008e4825,partly.london,available,12.98,41.98,medium,low,6,namecheap,,,15/09/2026 19:01
-9388d426-c062-497c-a86b-0571fc968e9d,ruled.london,available,41.98,,high,low,5,namecheap,,,
+9388d426-c062-497c-a86b-0571fc968e9d,ruled.london,available,31.99,31.99,high,low,5,namesilo,,,27/09/2026 16:50
 522252e4-fa33-4789-bfab-5a9a537c2be0,melodious.london,available,12.98,41.98,high,low,9,namecheap,,,24/08/2026 19:38
 e3e70c8b-d243-4b30-bb05-9415860a0abe,achaean.london,available,12.98,41.98,medium,low,7,namecheap,,,
 fbfb6085-719c-49a9-b660-b6d968639def,redevelopment.london,available,31.99,31.99,high,low,13,namesilo,,,20/09/2026 23:43
@@ -793,7 +808,7 @@ df00c319-effd-48bd-bb15-f2625780288e,kempt.london,available,12.98,41.98,medium,l
 877b7422-7513-4561-885d-6c954ccb7682,sinning.london,available,12.98,41.98,high,medium,7,namecheap,,,10/09/2026 08:31
 80835427-5fd5-47a2-9cc7-3645d93159da,tenner.london,available,59.99,59.99,medium,low,6,name.com,,,21/09/2026 10:53
 a4cc643c-b6f6-4400-9796-406626a317c0,madagascan.london,available,12.98,41.98,high,low,10,namecheap,,,24/08/2026 12:55
-e3b4622f-c0b1-4a71-9167-55e476cab963,contested.london,available,12.98,41.98,high,low,9,namecheap,,,23/09/2026 22:01
+e3b4622f-c0b1-4a71-9167-55e476cab963,contested.london,available,12.98,41.98,medium,low,9,namecheap,,,23/09/2026 22:01
 1f7bdbac-012d-4e19-ae54-06c18199fffc,coffeecake.london,available,31.99,31.99,high,low,11,namesilo,,,
 d30b1070-f3cc-479e-96bc-8a7bea044464,uncool.london,available,12.98,41.98,medium,low,6,namecheap,,,12/09/2026 06:11
 d8753bc9-9196-4e94-8e1f-698ef11f69c0,fox.london,premium,1380.74,1380.74,high,high,3,namecheap,,,24/09/2026 13:47
@@ -810,7 +825,7 @@ fe8cf216-5bdb-4cab-a516-d7337a1efb52,stael.london,available,31.99,31.99,medium,l
 a01978e4-9e17-4c38-953e-b03300e55cd7,allelic.london,available,12.98,41.98,medium,low,7,namecheap,,,
 c9384107-7622-47c9-8267-77b5d3c73e36,renewable.london,available,12.98,41.98,high,low,9,namecheap,,,09/09/2026 14:03
 756b9086-c03d-409f-a59a-23778c9cd6ed,chairman.london,premium,64.41,31.93,high,low,8,namesilo,,,
-34edce4f-53bf-41d7-bbbf-224899a1c585,cultivator.london,available,12.98,41.98,high,low,10,namecheap,,,17/09/2026 19:20
+34edce4f-53bf-41d7-bbbf-224899a1c585,cultivator.london,available,12.98,41.98,medium,low,10,namecheap,,,17/09/2026 19:20
 32182f70-ea4c-432b-890e-eb6b8e6e0ea0,place.london,premium,135.56,31.25,high,low,5,namesilo,,,24/09/2026 23:57
 ce889adf-1f2a-4a60-87ef-8d232fe849b5,book.london,premium,3394,,high,medium,4,name.com,,,
 923bb4fa-108e-4ace-b0be-0312d89db7c3,fodder.london,available,12.98,41.98,medium,low,6,namecheap,,,24/09/2026 12:05
@@ -826,7 +841,7 @@ b3061d8d-2d4a-4387-879d-0ca6981378bd,plays.london,premium,136.77,31.52,medium,lo
 6ccd16fb-332d-474a-9536-438271d38e0d,bowling.london,premium,1378.25,34.45,high,low,7,namecheap,,,27/09/2026 03:22
 6e4cb62d-a34e-46de-9792-21aca03c02eb,besom.london,available,31.99,31.99,medium,low,5,namesilo,,,23/09/2026 10:25
 2212bdb4-aa75-4c5c-bcac-95aee73dcdd3,webbed.london,available,12.98,41.98,medium,low,6,namecheap,,,03/09/2026 16:04
-8b810a88-58ee-44bc-8ffc-ff47e150f84a,cyril.london,available,31.99,31.99,high,low,5,namesilo,,,25/09/2026 04:29
+8b810a88-58ee-44bc-8ffc-ff47e150f84a,cyril.london,available,31.99,31.99,medium,low,5,namesilo,,,25/09/2026 04:29
 5b62dbbb-1e6c-4876-8662-d15f6601ef41,arrests.london,premium,138.78,34.7,medium,low,7,namecheap,,,20/09/2026 19:12
 62898538-d711-412b-a9d1-a795342b1453,indigenous.london,available,12.98,41.98,high,low,10,namecheap,,,07/08/2026 19:31
 c7f1f39b-028a-4d56-bcac-41668a9797f3,ago.london,premium,63.74,31.6,high,low,3,namesilo,,,21/09/2026 23:15
@@ -836,7 +851,7 @@ df919fb5-b36f-4a70-b898-e7539e26023b,manly.london,premium,65,32.23,high,low,5,na
 10f3b32e-7f2a-4de4-bdc7-b6a1bef5d9ba,phd.london,premium,62.9,31.19,high,low,3,namesilo,,,25/09/2026 09:56
 84e83dd7-d714-4138-a46c-5780e3190785,famed.london,available,12.98,41.98,high,low,5,namecheap,,,11/08/2026 23:12
 ff259e71-285b-4792-9eb1-b910dfc86dfb,clog.london,premium,135.56,31.25,high,low,4,namesilo,,,24/09/2026 15:50
-7bc9f4fe-b4d0-49f7-b050-7b83e6bc6d47,darius.london,available,31.99,31.99,high,low,6,namesilo,,,27/09/2026 07:28
+7bc9f4fe-b4d0-49f7-b050-7b83e6bc6d47,darius.london,available,31.99,31.99,medium,low,6,namesilo,,,27/09/2026 07:28
 9582cdc3-bdc1-4c5e-bf79-72250b93b8ce,neoplastic.london,available,12.98,41.98,medium,low,10,namecheap,,,03/09/2026 15:29
 c960e818-07ab-4da0-9be6-801e71c13dd2,frothing.london,available,12.98,41.98,medium,low,8,namecheap,,,18/08/2026 09:42
 01e1a4df-5c23-4b54-a183-b8bad2420ac0,baboon.london,premium,63.74,31.6,high,low,6,namesilo,,,21/09/2026 12:58
@@ -847,13 +862,13 @@ bd36afa0-1525-4aa4-8dc0-032e0751d4a3,sleepily.london,available,12.98,41.98,mediu
 3ad7ba5d-e8b8-4a17-86e0-ba92778cc3db,cops.london,premium,136.77,31.52,high,low,4,namesilo,,,18/09/2026 22:05
 ba5b51d9-7c12-4e26-8a7e-872cf9c2987c,devoting.london,available,31.99,31.99,medium,low,8,namesilo,,,17/09/2026 17:04
 a0893e41-eb9e-47cb-b3ed-5f2e33f04bf5,ayrshire.london,available,31.99,31.99,high,low,8,namesilo,,,21/09/2026 10:44
-a55bb932-dd82-4fea-9d7a-f6e7e2844dd2,drift.london,available,31.99,31.99,high,low,5,namesilo,,,
+a55bb932-dd82-4fea-9d7a-f6e7e2844dd2,drift.london,available,12.98,41.98,high,medium,5,namecheap,,,28/09/2026 01:40
 f1dde562-96d3-4c68-b817-b4553e1d7e34,foetal.london,available,12.98,41.98,medium,low,6,namecheap,,,18/08/2026 02:18
 c64f63b7-6c22-4da6-9a76-ae87d06ca6f9,providence.london,premium,64.41,31.93,high,low,10,namesilo,,,
 46dc4cab-94f9-4765-b67c-974a024655ee,streisand.london,available,31.99,31.99,high,low,9,namesilo,,,22/09/2026 05:03
 df643a11-1f1c-4a1d-b6ab-a2b7bdeea88c,dvd.london,premium,678.41,,high,low,3,name.com,,,
 8e0ba73d-8fb0-4b40-9d90-b89301a8ca53,angelic.london,premium,136.91,31.55,high,low,7,namesilo,,,22/09/2026 04:25
-74f6bdcb-fbfb-4d9b-b177-92ae21559d8d,auspices.london,available,31.99,31.99,high,low,8,namesilo,,,17/09/2026 12:16
+74f6bdcb-fbfb-4d9b-b177-92ae21559d8d,auspices.london,available,31.99,31.99,medium,low,8,namesilo,,,17/09/2026 12:16
 e882b183-4b5d-4a8f-8551-eb433ba50f19,curvey.london,available,12.98,41.98,medium,low,6,namecheap,,,13/08/2026 11:51
 0d2778e2-e8d6-4f04-915a-159386c2cbbe,gastric.london,available,12.98,41.98,medium,low,7,namecheap,,,18/08/2026 20:32
 9be0f51b-29f7-45e9-9f1d-20a2da5c5c3a,stolid.london,available,12.98,41.98,medium,low,6,namecheap,,,21/08/2026 21:51
@@ -896,7 +911,7 @@ e86b2d2a-4dfa-4fd2-9017-66ca3fac2cc7,forsaking.london,available,12.98,41.98,medi
 c225bea5-d185-4d20-9f27-6e3230413108,upchuck.london,available,12.98,41.98,high,medium,7,namecheap,,,10/09/2026 07:41
 9fc4137b-84bb-4d24-8f39-64ca13e40f6a,synoptic.london,available,12.98,41.98,high,low,8,namecheap,,,11/09/2026 06:33
 4cdd76b1-a4d5-4b42-a930-2636e8665201,trusty.london,available,12.98,41.98,high,low,6,namecheap,,,11/09/2026 20:49
-41306fc0-9227-4e72-adae-4ec6e3d95426,asymmetry.london,available,12.98,41.98,high,low,9,namecheap,,,20/09/2026 18:39
+41306fc0-9227-4e72-adae-4ec6e3d95426,asymmetry.london,available,12.98,41.98,medium,low,9,namecheap,,,20/09/2026 18:39
 6cfeb91d-eae1-4b2b-97c7-e826d33702fd,bipartisan.london,available,12.98,41.98,high,low,10,namecheap,,,10/08/2026 04:32
 c9b696a1-a4e4-4f94-b346-46597d57e0b0,nyc.london,premium,340.11,,high,medium,3,name.com,,,
 d5450863-2671-4e4d-b840-330ca5086231,springbuck.london,available,31.99,31.99,medium,low,10,namesilo,,,19/09/2026 14:19
@@ -929,10 +944,10 @@ a77e400c-1d12-413a-b230-078e928469bc,instate.london,available,41.98,,medium,low,
 9b1fde67-92e6-4925-81f4-9594f4e78636,titulary.london,available,12.98,41.98,medium,low,8,namecheap,,,11/09/2026 16:34
 54fca2d8-b944-4e29-b6f0-ab619705ea4d,hanoverian.london,available,12.98,41.98,high,low,10,namecheap,,,20/08/2026 23:44
 4c3c160a-9413-45a8-8073-fe55ae348022,styptic.london,available,12.98,41.98,medium,low,7,namecheap,,,07/08/2026 10:00
-8a69e63c-89ff-4f59-bc16-f435dfeb5612,jewelled.london,available,12.98,41.98,high,low,8,namecheap,,,18/08/2026 21:12
+8a69e63c-89ff-4f59-bc16-f435dfeb5612,jewelled.london,available,12.98,41.98,medium,low,8,namecheap,,,18/08/2026 21:12
 571aee2f-09e2-41c1-809c-eacebd9ebe24,recall.london,available,31.99,31.99,high,low,6,namesilo,,,24/09/2026 11:46
 fad443eb-30dd-4e3f-bbc2-72c481f2de89,attach.london,available,12.98,41.98,high,low,6,namecheap,,,23/09/2026 19:57
-8139b623-564c-4ce4-8542-d35aeb1a48e1,octal.london,available,12.98,41.98,high,low,5,namecheap,,,04/09/2026 00:39
+8139b623-564c-4ce4-8542-d35aeb1a48e1,octal.london,available,12.98,41.98,medium,low,5,namecheap,,,04/09/2026 00:39
 74c565a9-56fc-4f6f-816c-e32eacfff028,outdoorsy.london,available,12.98,41.98,high,low,9,namecheap,,,04/09/2026 19:14
 51eee262-1d41-4203-a884-ed5ae47af608,milanese.london,available,12.98,41.98,high,low,8,namecheap,,,24/08/2026 22:53
 d74540e1-7ddb-465c-81b2-b0d90d682b03,urinate.london,available,12.98,41.98,medium,low,7,namecheap,,,13/09/2026 09:41
@@ -940,6 +955,7 @@ d74540e1-7ddb-465c-81b2-b0d90d682b03,urinate.london,available,12.98,41.98,medium
 aff44b34-c2e6-4a92-9dba-8270f58c491e,australian.london,available,31.99,31.99,high,low,10,namesilo,,,22/09/2026 13:30
 33158550-de70-403e-85d3-5048a4f5c7c3,honeymoons.london,available,31.99,31.99,medium,low,10,namesilo,,,20/09/2026 01:32
 b6b59c0f-2dc5-4d48-ac32-27b441cd5839,bawbee.london,available,31.99,31.99,medium,low,6,namesilo,,,22/09/2026 16:46
+65ed78a5-f40f-4db6-9143-7b5163f4b018,colby.london,premium,135.46,31.22,high,low,5,namesilo,,,28/09/2026 00:47
 8ab9926c-09fa-4cc1-a217-fe400f6d0842,revenge.london,available,31.99,31.99,high,low,7,namesilo,,,25/09/2026 10:18
 59d4038d-d835-4564-9ce1-6e08751179c1,aimlessly.london,available,12.98,41.98,medium,low,9,namecheap,,,13/09/2026 18:28
 6ff7e67a-54a1-4379-ac33-d782398aca04,boxy.london,available,12.98,41.98,medium,low,4,namecheap,,,10/08/2026 23:58
@@ -951,7 +967,7 @@ b6b59c0f-2dc5-4d48-ac32-27b441cd5839,bawbee.london,available,31.99,31.99,medium,
 5ba4652d-8a12-4850-9a3d-a5cdfc56993c,statue.london,available,12.98,41.98,high,low,6,namecheap,,,26/09/2026 00:24
 4839f818-2f35-4c87-88b8-fc394a72181c,veteran.london,available,31.99,31.99,high,low,7,namesilo,,,
 9ee837ab-b53c-4d7e-b156-fa7b9363739e,races.london,premium,138.78,34.7,high,low,5,namecheap,,,19/09/2026 00:33
-f9516cc1-89cf-4083-8323-02fdda08ba10,ovate.london,available,12.98,41.98,high,low,5,namecheap,,,15/08/2026 18:03
+f9516cc1-89cf-4083-8323-02fdda08ba10,ovate.london,available,12.98,41.98,medium,low,5,namecheap,,,15/08/2026 18:03
 8c21ec92-6447-46ab-b953-84502d2babc7,tyres.london,premium,3469.49,34.7,medium,low,5,namecheap,,,20/09/2026 19:00
 7e1c4f0c-5faa-4c52-99a8-68d3b749b531,alsatia.london,available,12.98,41.98,medium,low,7,namecheap,,,18/09/2026 14:16
 e6b328ee-3572-4170-b0ea-7ca273fc47e6,apophasis.london,available,12.98,41.98,medium,low,9,namecheap,,,19/09/2026 19:01
@@ -968,34 +984,18 @@ f366cac7-7c5c-4a45-b97e-c5d93ee7c65e,clara.london,premium,135.33,31.19,high,low,
 0293e42c-d47c-498b-a69a-4573d21c8f36,mortuary.london,available,12.98,41.98,medium,low,8,namecheap,,,25/08/2026 06:40
 7eb173e9-51d1-4736-82e6-c32493955953,yucky.london,available,12.98,41.98,medium,low,5,namecheap,,,14/08/2026 10:51
 ea9d2eb6-747d-4b9d-9eed-098878fbc91e,cnn.london,premium,339.85,,high,low,3,name.com,,,
-dc8bb454-d974-4fca-b076-5b996feff66e,ruined.london,available,41.98,,high,low,6,namecheap,,,
+dc8bb454-d974-4fca-b076-5b996feff66e,ruined.london,available,31.99,31.99,medium,low,6,namesilo,,,27/09/2026 16:41
 d7ff14b1-4df2-4b1c-b84e-7331c5d9cf13,pancake.london,premium,136.91,31.55,high,low,7,namesilo,,,22/09/2026 14:28
 23b80341-529a-4d5d-9a8e-5c6427c1f3f1,gets.london,premium,63.57,31.52,medium,low,4,namesilo,,,18/09/2026 02:13
 6681894f-22e4-4598-953e-a5f03aa446dc,rescue.london,premium,135.31,,high,low,6,name.com,,,
 428b4941-6b83-4585-b191-27acd9a7879d,anaheim.london,premium,63.76,31.61,high,low,7,namesilo,,,19/09/2026 01:31
 072431e2-2433-428d-9c64-99297623fb49,actias.london,available,12.98,41.98,medium,low,6,namecheap,,,17/09/2026 04:29
-a99a30d0-fe2a-4ac1-a889-4c7236130438,feeler.london,available,12.98,41.98,high,low,6,namecheap,,,22/09/2026 04:48
+a99a30d0-fe2a-4ac1-a889-4c7236130438,feeler.london,available,12.98,41.98,medium,low,6,namecheap,,,22/09/2026 04:48
 7b0218bc-5ff0-41cc-adc4-81e049810f73,affined.london,available,12.98,41.98,medium,low,7,namecheap,,,
 3d1bcdae-4e7a-468b-8b84-abf451a2c695,distress.london,premium,64.58,32.03,high,low,8,namesilo,,,
 d9f346f6-dd7e-4ef1-81e4-6e70f15b8459,vitrified.london,available,12.98,41.98,medium,low,9,namecheap,,,13/09/2026 06:20
+e8ec0b96-3ffd-48ed-96f2-f55dbdabd607,joyce.london,premium,109.91,27.63,high,low,5,spaceship,,,27/09/2026 14:23
 6339ba44-3185-4ca5-8602-bb04549080b4,soaker.london,available,12.98,41.98,medium,low,6,namecheap,,,
 ab417f1a-ef0c-4122-8b6e-32889022981d,abandon.london,premium,64.21,31.84,high,low,7,namesilo,,,14/08/2026 03:52
 c6dbabda-766b-4568-94b1-f79ccb878e6f,bashful.london,premium,64.22,31.84,high,low,7,namesilo,,,08/08/2026 22:01
-21169690-a250-44db-9f67-e6cddb23cf26,witching.london,available,12.98,41.98,high,low,8,namecheap,,,13/09/2026 12:46
-38221d98-b7e2-4856-8859-7dfd68250d58,terrific.london,available,31.99,31.99,high,low,8,namesilo,,,25/09/2026 00:17
-13c728e7-8b5b-4288-ba99-474095c515bc,sinistral.london,available,12.98,41.98,high,medium,9,namecheap,,,10/09/2026 08:28
-7a203f92-dc0c-4397-88ea-77dd690a1f98,dicey.london,available,12.98,41.98,medium,low,5,namecheap,,,12/08/2026 01:44
-4788a744-627f-4001-bf43-634bd6e6b0b2,deft.london,premium,134.98,59.99,high,low,4,name.com,,,13/08/2026 23:50
-9f2a73d2-98d4-44c3-a6cc-2c720db12772,missile.london,premium,135.68,31.27,high,low,7,namesilo,,,27/09/2026 07:17
-8e6d708a-b224-4594-b9b9-a0a43cddd332,sloe.london,available,31.99,31.99,medium,low,4,namesilo,,,18/09/2026 10:21
-8736fad5-757e-440e-b437-5343ebf14524,unlucky.london,available,12.98,41.98,medium,low,7,namecheap,,,21/08/2026 19:11
-5127bf3c-382d-418d-b289-441152ec67a7,asat.london,available,12.98,41.98,medium,low,4,namecheap,,,05/08/2026 19:31
-10e4b195-cf96-4932-8761-b1aef95a51d2,discharge.london,premium,63.76,31.61,high,low,9,namesilo,,,20/09/2026 01:05
-2ac7e619-95ef-4950-8471-f51431344eae,fusty.london,available,12.98,41.98,low,low,5,namecheap,,,18/08/2026 16:42
-6396ca26-026b-4d36-bd2c-2cbed5738459,gabble.london,available,12.98,41.98,medium,low,6,namecheap,,,23/09/2026 23:37
-2d86bd85-c108-4eec-92d4-a24318416c4c,refreshing.london,premium,64.31,31.88,high,low,10,namesilo,,,11/08/2026 00:37
-6b2ab9f5-c553-4672-95b3-11ffe9014307,blithe.london,available,12.98,41.98,high,low,6,namecheap,,,10/08/2026 14:37
-0be8bdbb-0b0f-4fd8-9f5a-1f98c7a5eeb8,aigrette.london,available,59.99,59.99,medium,low,8,name.com,,,17/09/2026 20:55
-1597628a-6688-422c-a249-971f552d3e79,functions.london,available,31.99,31.99,high,low,9,namesilo,,,17/09/2026 05:18
-c1749520-4f28-453d-96d0-266b56b7cd25,apnea.london,available,12.98,41.98,medium,low,5,namecheap,,,19/09/2026 18:04
-5fafaacd-5659-421d-a0ef-738e1911caae,bowen.london,premium,62.9,31.19,high,low,5,namesilo,,,25/09/2026 12:42
+21169690-a250-44db-9f67-e6cddb23cf26,witching.london,available,12.98,41.98,medium,low,8,namecheap,,,13/09/2026 12:46
